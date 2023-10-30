@@ -1,0 +1,152 @@
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojAssemblyReference.cache
+C:\Users\denat\source\repos\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Login.resources
+C:\Users\denat\source\repos\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\denat\source\repos\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\denat\source\repos\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\denat\source\repos\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CopyComplete
+C:\Users\denat\source\repos\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\denat\source\repos\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\denat\source\repos\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.AccountProfile.resources
+C:\Users\denat\source\repos\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.TableManager.resources
+C:\Users\denat\source\repos\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Admin.resources
+C:\Users\denat\source\repos\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.ChangePassword.resources
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\Guna.UI2.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\obj\Debug\RdlCompile.cache
+C:\Users\denat\source\repos\QuanLyQuanCafe\obj\Debug\RdlCompile.compiled
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\EnvDTE.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\stdole.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\Microsoft.MSXML.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\denat\source\repos\QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+E:\project cũ\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+E:\project cũ\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+E:\project cũ\QuanLyQuanCafe\bin\Debug\FontAwesome.Sharp.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\Guna.UI2.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\EnvDTE.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\stdole.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\Microsoft.MSXML.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\project cũ\QuanLyQuanCafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\project cũ\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.AssemblyReference.cache
+E:\project cũ\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.AccountProfile.resources
+E:\project cũ\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Admin.resources
+E:\project cũ\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.ChangePassword.resources
+E:\project cũ\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.TableManager.resources
+E:\project cũ\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Login.resources
+E:\project cũ\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+E:\project cũ\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+E:\project cũ\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+E:\project cũ\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CopyComplete
+E:\project cũ\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+E:\project cũ\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
